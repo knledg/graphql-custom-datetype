@@ -1,5 +1,5 @@
 {
-  "name": "graphql-custom-datetype",
+  "name": "@jwdotjs/graphql-custom-datetype",
   "version": "0.3.0",
   "description": "Custom date type for graphql",
   "main": "dist/datetype.js",
